@@ -1,4 +1,9 @@
 {
-    "RoEarnAffiliate": 11061534651,
-    "BannerMessage": "this is a test",
+    "referral": 3303871986,
+    "alert": "this is a test",
+    "items": 0.2,
+    "gamepasses": 0.1,
+    "clothing": 0.0,
+    "limiteds": 0.0,
+    "cashbackEnabled": true
 }
